@@ -25,8 +25,8 @@
     
     
     
-    NSLog(@"do my self");
-    NSLog(@"do my self");
+    NSLog(@"111331");
+    NSLog(@"33333");
     return YES;
 }
 
