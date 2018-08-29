@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    NSLog(@"AppDelegate");
+    NSLog(@"点点滴滴AppDelegate");
     
     NSLog(@"aaaaaaaaaa");
     
