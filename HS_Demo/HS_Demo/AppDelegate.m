@@ -20,6 +20,12 @@
     NSLog(@"AppDelegate");
     
     NSLog(@"aaaaaaaaaa");
+    
+    
+    
+    
+    
+    NSLog(@"do my self");
     return YES;
 }
 
