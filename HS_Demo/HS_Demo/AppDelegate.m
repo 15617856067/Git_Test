@@ -20,6 +20,7 @@
     NSLog(@"AppDelegate");
     
     NSLog(@"aaaaaaaaaa");
+    NSLog(@"bbbbbbbbbbbbb");
     return YES;
 }
 
