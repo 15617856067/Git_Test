@@ -26,6 +26,7 @@
     
     
     NSLog(@"do my self");
+    NSLog(@"do my self");
     return YES;
 }
 
